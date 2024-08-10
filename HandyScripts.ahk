@@ -7,5 +7,3 @@
 if FileExist("img\assistant.png") {
     TraySetIcon("img\assistant.png")
 }
-
-
