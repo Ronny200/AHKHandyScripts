@@ -1,6 +1,6 @@
 #Requires AutoHotkey >=2.0
 #SingleInstance Force
-#Include lib
+#Include library
 #Include Hotkeys.ahk
 
 ;加载托盘图标
